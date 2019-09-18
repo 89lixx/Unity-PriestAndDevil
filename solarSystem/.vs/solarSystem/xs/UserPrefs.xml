@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{CF66E54E-1E3C-2FE6-BCD3-E4CF17AA567B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/earth_moon.cs">
+    <Files>
+      <File FileName="Assets/move.cs" Line="21" Column="40" />
+      <File FileName="Assets/earth_moon.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="solarSystem" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="earth_moon.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="129a7105-1478-461f-ad4c-796eb4bf2278" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
