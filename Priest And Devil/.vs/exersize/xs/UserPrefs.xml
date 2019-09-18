@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{85162D1F-2DD0-F25C-9BD9-5EDCDB09F9F9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Cotroller/Director.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Cotroller/KernelController.cs" Line="64" Column="52" />
+      <File FileName="Assets/Scripts/Model/Character.cs" />
+      <File FileName="Assets/Scripts/Cotroller/CharacterController.cs" />
+      <File FileName="Assets/Scripts/View/UserGUi.cs" Line="51" Column="93" />
+      <File FileName="Assets/Scripts/Cotroller/Move.cs" />
+      <File FileName="Assets/Scripts/Model/Boat.cs" />
+      <File FileName="Assets/Scripts/Cotroller/BoatController.cs" />
+      <File FileName="Assets/Scripts/Cotroller/CoastController.cs" Line="41" Column="101" />
+      <File FileName="Assets/Scripts/Model/Coast.cs" />
+      <File FileName="Assets/Scripts/Cotroller/Director.cs" Line="16" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exersize" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Cotroller" expanded="True">
+                  <Node name="Director.cs" selected="True" />
+                </Node>
+                <Node name="Model" expanded="True" />
+                <Node name="View" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ffde910b-a788-4eaf-8201-f7de2bcf684b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
