@@ -252,4 +252,6 @@
 
     所有对象移动的动作
 
-[视频链接]()
+[视频链接](https://v.youku.com/v_show/id_XNDM2NjY4NjAyMA==.html?spm=a2h3j.8428770.3416059.1)
+
+[博客链接](https://blog.csdn.net/lxxnb666/article/details/101002625)
